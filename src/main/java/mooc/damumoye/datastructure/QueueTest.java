@@ -1,4 +1,4 @@
-package mooc.damumoye;
+package mooc.damumoye.datastructure;
 
 import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
